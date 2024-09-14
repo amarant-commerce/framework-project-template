@@ -16,8 +16,7 @@
     "amarant2/module-backoffice": "^1.0",
     "amarant2/module-framework": "^1.0",
     "amarant2/module-ui": "^1.0",
-    "amarant2/theme-hadron": "^1.0",
-    "amarant2/theme-lux": "^1.0"
+    "amarant2/theme-hadron": "^1.0"
   },
   "config": {
     "optimize-autoloader": true,
